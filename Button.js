@@ -1,3 +1,3 @@
 function add(){
-      document.body.style.background = 'red'
+      document.body.style.background = 'blue'
     }
