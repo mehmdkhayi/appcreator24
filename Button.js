@@ -10,4 +10,3 @@ document.getElementById('html5').addEventListener('change', function() {
         selectedElement.style.display = 'block';
       }
     });
-console.log('j')
